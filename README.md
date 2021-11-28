@@ -1,2 +1,2 @@
 # FIRST COMMIT
-ini dari branch development
+ini master, ini dari branch development
